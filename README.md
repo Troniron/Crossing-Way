@@ -1,2 +1,2 @@
 # Crossing-Way
-You can play this game In Unity Engine.
+ play this game In Unity Engine only
